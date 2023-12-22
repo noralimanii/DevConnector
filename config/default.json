@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://nora123:nora123@devconnector.qclmsst.mongodb.net/?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://nora123:nora123@devconnector.qclmsst.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
