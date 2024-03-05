@@ -12,6 +12,7 @@
   "author": "Nora Limani",
   "license": "MIT",
   "dependencies": {
+    "@reduxjs/toolkit": "^2.2.1",
     "@sinonjs/commons": "^3.0.0",
     "bcryptjs": "^2.4.3",
     "config": "^3.3.9",
